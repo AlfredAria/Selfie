@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Selfie</string>
+    <string name="action_settings">Settings</string>
+<!--     <string name="hello_world">Hello world!</string> -->
+    <string name="camera_button">Camera Button</string>
+	<string name="delete_button">Delete All Selfies</string>
+	<string name="cancel_alarm">Cancel Alarm</string>
+</resources>
