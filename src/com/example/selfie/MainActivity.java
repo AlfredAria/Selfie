@@ -138,6 +138,7 @@ public class MainActivity extends ListActivity {
 				madapter.removeAllViews();
 				return true;
 			case R.id.cancel_alarm:
+				cancelAlarm();
 				return true;
 		}
 	    return  false;
